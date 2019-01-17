@@ -1,0 +1,14 @@
+{
+  "firstName": "Erin",
+  "lastName": "Holliday",
+  "nickName": "Erin",
+  "privateName": false,
+  "picture": "images/ehollid.jpg",
+  "privatePicture": false,
+  "email": "erin.holliday@mail.utoronto.ca",
+  "privateEmail": false,
+  "github": "ehollid",
+  "privateGithub": false,
+  "superpower" : "making really good brownies, crochet, trying my best",
+  "academicinterests": "Jewish History, Censuses, Turn of the Century New York City"
+}
